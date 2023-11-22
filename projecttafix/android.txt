@@ -1,3 +1,0 @@
-title=Kivy App
-author=evalda
-orientation=potrait
